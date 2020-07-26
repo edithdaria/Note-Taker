@@ -22,6 +22,7 @@ app.use(bodyParser.json());
 //include html_routes in the server file and 
 //the app that we use is express
 require("./routing/html_routes.js")(app);
+require("./routing/api_routes.js")(app);
 
 app.listen(PORT, function(){
     console.log("App listening on PORT: " + PORT);
