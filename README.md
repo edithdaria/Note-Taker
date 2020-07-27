@@ -7,8 +7,9 @@
 ## Description
 User can use a note taker to organize thoughts and keep track of tasks to be completed. One can write and save notes and delete notes if needed.
 
-## Heroku Link
+## Link to launch instantly
 [Click Here to Launch in Heroku](https://evening-headland-63711.herokuapp.com/)
+[Click Here to Launch in GitHub](https://edithdaria.github.io/Note-Taker/)
 
 ## Table Of Contents
 * [Installation](#Installation)
@@ -37,4 +38,7 @@ If you have any questions don't hesitate to create an issue for this repository
 
 ## Author
 [edithdaria](https://github.com/edithdaria)
+
+## Demo
+![Demo](./public/assets/demo/Note_Taker.gif)
 
