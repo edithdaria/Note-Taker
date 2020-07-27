@@ -40,7 +40,7 @@ module.exports = function (app){
                 }
                 notes.push(note);
             } else {
-                note.id = 0;
+                note.id = 1;
                 notes = Array(note);
             }
             fs.writeFile("./db/db.json", JSON.stringify(notes), "utf-8", err => null);
