@@ -9,7 +9,6 @@ User can use a note taker to organize thoughts and keep track of tasks to be com
 
 ## Link to launch instantly
 [Click Here to Launch in Heroku](https://evening-headland-63711.herokuapp.com/)
-[Click Here to Launch in GitHub](https://edithdaria.github.io/Note-Taker/)
 
 ## Table Of Contents
 * [Installation](#Installation)
